@@ -1,5 +1,8 @@
 # 👋 ¡Hola! Soy Mikel Arroyo Gómez
 
+![Mi foto de perfil](avatar.png)
+
+
 Soy graduado en **Ciencias de la Actividad Física y el Deporte**, y actualmente estoy cursando **Desarrollo de Aplicaciones Web (DAW)**. Me apasiona la tecnología, el desarrollo web y la intersección entre el deporte y la informática.
 
 ---
